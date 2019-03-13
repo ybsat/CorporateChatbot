@@ -1,0 +1,36 @@
+>>> answer_question('Who is the CEO of Tesla?')
+'Elon Musk'
+
+>>> answer_question('Who is the CEO of Facebook?')
+'Mark Zuckerberg'
+
+>>> answer_question('Who is the CEO of Snapchat?')
+'Evan Spiegel'
+
+>>> answer_question('Which company went bankrupt in September 2008?')
+'Lehman Brothers'
+
+>>> answer_question('Which company went bankrupt in February 2013?')
+'Gox Mark Karpeles'
+
+>>> answer_question('Which company went bankrupt in November 2011?')
+'MF Global'
+
+>>> answer_question('Which company went bankrupt in May 2012?')
+'Energy Future Holdings'
+
+
+>>> answer_question('What affects GDP?')
+'interest rates, credit, investments, inflation, government, growth, debt, labor, markets, economy'
+
+>>> answer_question('What percentage drop or increase is associated with exports?')
+'1 percent'
+
+>>> answer_question('What percentage drop or increase is associated inflation?')
+'7 percent'
+
+>>> answer_question('What percentage drop or increase is associated with economy?')
+'5 percent'
+
+>>> answer_question('What percentage drop or increase is associated consumer spending?')
+'1 percentage points'
